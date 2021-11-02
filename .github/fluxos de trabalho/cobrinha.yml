@@ -1,6 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CIname: Generate Datas
+nome: Gerar Dados
 
 on:
   schedule: # execute every 12 hours
