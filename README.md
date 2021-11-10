@@ -1,7 +1,7 @@
 ### Olá, Sou a Gizelly Martins 🙋‍♀️
 
 - 🌱 Estudando : Análise e Desenvolvimento de Sistemas na Uninter
- e Introdução à Programação com Python 
+ e Introdução à Programação com Python na Digital Innovation
 
 <div>
   <a href="https://github.com/Gizellymartins">
