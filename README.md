@@ -1,4 +1,4 @@
-### Olá, Sou a Gizelly Martins 🙋‍♀️
+### Olá, Sou Gizelly Martins 🙋‍♀️
 
 - 🌱 Estudando : Análise e Desenvolvimento de Sistemas na Uninter
 
