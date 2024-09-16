@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/Gizellymartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gizellymartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gizellymartins=anuraghazra&show_icons=true&theme=dark)"/>
 </div>
  
  <div style="dusplay; inline_block"><br>
